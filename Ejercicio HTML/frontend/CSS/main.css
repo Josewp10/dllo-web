@@ -1,0 +1,41 @@
+body{
+    background-color:white;
+}
+
+
+h1{
+    color: blue;
+}
+
+p{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
+}    
+
+ul li{
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+ol li{
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+    background-color: darkgray;
+    border-radius: 5%;
+    border-color: tomato;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border-radius: 0;
+}
